@@ -1,6 +1,6 @@
 ## Description
 
-This project provides Inventory Management using Power BI, useful for Warehouse/ In-plant Inventory Managers to effectively control the Inventory levels and also maintain the Service Levels. Concepts integrated include the following:
+This project provides Inventory Management using Power BI, useful for Warehouse/ In-plant Inventory Managers to effectively control the Inventory levels and also maintain the Service Levels. Below is a non-exhaustive list of concepts integrated include the following:
 
 1. ABC Classification
 2. XYZ Classification
