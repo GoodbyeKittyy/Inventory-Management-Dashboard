@@ -24,5 +24,6 @@ This project provides Inventory Management using Power BI, useful for Warehouse/
 ## Dashboard Design
 ![image](https://github.com/GoodbyeKittyy/Inventory-Management-Dashboard/assets/161730857/64d2b7f9-0261-495c-beea-e1d0a93a6685)
 
+
 ![image](https://github.com/GoodbyeKittyy/Inventory-Management-Dashboard/assets/161730857/bb519992-4605-4df4-bbce-a16b250af647)
 
